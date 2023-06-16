@@ -19,7 +19,6 @@ spannend, één goudskorrel verliezen, betekent dat je er uit ligt.
 ![](/photos/Tankavaara/0020.jpg)
 
 <div class="gallery" data-columns="3">
-	<img src="/photos/Tankavaara/0020.jpg">
 	<img src="/photos/Tankavaara/0150.jpg">
 	<img src="/photos/Tankavaara/0050.jpg">
 	<img src="/photos/Tankavaara/0070.jpg">
