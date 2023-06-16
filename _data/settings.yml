@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: spijker.
+  site_tagline: beeld.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -11,12 +11,12 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+        #    - title: 'Blog'
+        #      url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+        #    - title: 'Contact'
+        #      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8
@@ -64,7 +64,7 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#0C5DF2'
   border_color: '#dddddd'
-  overlay_background_color: '#0C5DF2'
+  overlay_background_color: '#444444'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
