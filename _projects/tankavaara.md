@@ -1,5 +1,5 @@
 ---
-title: 'tankavaara'
+title: 'tankavaara.'
 subtitle: 'wereldkampioenschap goudpannen'
 date: 2022-01-01 00:00:00
 description: 
@@ -14,7 +14,7 @@ Goudpannen. Tijdens deze wedstrijden moeten de deelnemers zo snel
 mogelijk hun goud uit 20 kg zand weten te wassen. De kleine korreltjes
 goud moeten ze in hun buisje stoppen. De jury controleert hoeveel ze
 hebben gevonden. De meesten doen dat binnen 2 minuten. De competitie is
-spannend, één goudskorrel verliezen, betekent dat je er uit ligt.
+spannend, één goudkorrel verliezen, betekent dat je er uit ligt.
 
 ![](/photos/Tankavaara/0020.jpg)
 
