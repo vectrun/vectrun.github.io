@@ -1,6 +1,6 @@
 ---
-title: 'Goudpanners.'
-subtitle: 'wereldkampioenschap goudpannen'
+title: 'goudpanners.'
+subtitle: 'nederlands kampioenschap goudpannen'
 date: 2020-01-01 00:00:00
 description: 
 featured_image: 'photos/Goudpanners/0340.jpg'

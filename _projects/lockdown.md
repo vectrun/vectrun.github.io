@@ -1,6 +1,6 @@
 ---
 title: 'lockdown.'
-subtitle: 'thuisblijven verkleint je wereld.'
+subtitle: 'thuisblijven verkleint je wereld'
 date: 2023-01-01 00:00:00
 description: 
 featured_image: 'photos/Lockdown/0020.jpg'
