@@ -1,7 +1,7 @@
 ---
 title: 'straat.'
 subtitle: 'Straatfotografie.'
-date: 2023-01-02 00:00:00
+date: 2023-10-02 00:00:00
 description: 
 featured_image: 'photos/Straat/0010.jpg'
 ---
