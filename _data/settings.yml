@@ -11,6 +11,8 @@ menu_settings:
   menu_items:
     - title: 'projecten.'
       url: '/'
+    - title: 'opdrachten.'
+      url: '/opdracht'
         #    - title: 'Blog'
         #      url: '/blog/'
     - title: 'over mij.'

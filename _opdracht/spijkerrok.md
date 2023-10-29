@@ -3,7 +3,7 @@ title: 'spijkerrok.'
 subtitle: 'eigenzinning festival in het Spijkerkwartier'
 date: 2023-01-01 00:00:00
 description: 
-featured_image: 'photos/spijkerrok/spijkerrok_048.jpg'
+featured_image: '/photos/spijkerrok/spijkerrok_048.jpg'
 ---
 
 

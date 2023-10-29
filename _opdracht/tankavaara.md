@@ -3,7 +3,7 @@ title: 'tankavaara.'
 subtitle: 'wereldkampioenschap goudpannen'
 date: 2022-01-01 00:00:00
 description: 
-featured_image: 'photos/Tankavaara/0010.jpg'
+featured_image: '/photos/Tankavaara/0010.jpg'
 ---
 
 

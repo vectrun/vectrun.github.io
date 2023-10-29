@@ -13,6 +13,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  opdracht:
+    output: true
+    permalink: /opdracht/:slug
 
 defaults:
   -
@@ -38,6 +41,13 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "opdracht"
+    values:
+      layout: "project"
+
 
 markdown: kramdown
 
