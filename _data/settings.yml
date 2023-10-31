@@ -9,9 +9,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'projecten.'
+    - title: 'vrij werk.'
       url: '/'
-    - title: 'opdrachten.'
+    - title: 'in opdracht.'
       url: '/opdracht'
         #    - title: 'Blog'
         #      url: '/blog/'
