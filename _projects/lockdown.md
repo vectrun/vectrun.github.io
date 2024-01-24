@@ -7,7 +7,7 @@ featured_image: 'photos/Lockdown/0020.jpg'
 ---
 
 
-*Deze serie is tot 7 januari 2023 zien op de expositie 'Sit Down for a While
+*Deze serie was tot 7 januari 2024 te zien op de expositie 'Sit Down for a While
 and See Me', in Dudok Arnhem.*
 
 
